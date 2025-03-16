@@ -48,11 +48,9 @@
 ---
 
 ### 📞 Contact Me  
-📧 **Email:** [your.email@example.com](mailto:your.email@example.com)  
-💼 **LinkedIn:** [linkedin.com/in/yourprofile](#)  
-🌐 **Portfolio:** [yourportfolio.com](#)  
-🐦 **Twitter:** [@yourhandle](#)  
-
+📧 **Email:** harishkalusulingamn@gmail.com
+💼 **LinkedIn:** https://www.linkedin.com/in/harish-kalusulingam-n-7bb73b224/
+🐦 **Instagram:** https://www.instagram.com/n_harish_kalusulingam/
 ---
 
 ⭐ **Check out my repositories for more cool projects!** 🚀  
