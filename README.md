@@ -49,7 +49,9 @@
 
 ### 📞 Contact Me  
 📧 **Email:** harishkalusulingamn@gmail.com
+
 💼 **LinkedIn:** https://www.linkedin.com/in/harish-kalusulingam-n-7bb73b224/
+
 🐦 **Instagram:** https://www.instagram.com/n_harish_kalusulingam/
 ---
 
