@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white">
 </p>
 
----
+
 
 ### 👨‍💻 About Me
 - 🎓 **B.Com IT Graduate** from Yadava College  
@@ -18,14 +18,14 @@
 - 🔥 Currently mastering **React.js & MERN Stack**  
 - 🚀 Love building **responsive and interactive web applications**  
 
----
+
 
 ### 🛠 Tech Stack
 > **Frontend:** HTML, CSS, Tailwind CSS, JavaScript, React.js  
 > **Backend (Learning):** Node.js, Express.js, MongoDB  
 > **Tools & Platforms:** Git, GitHub, Vercel, Netlify, VS Code  
 
----
+
 
 ### 🌟 Featured Projects
 🚀 **Shoe E-commerce**  
@@ -37,7 +37,7 @@
 🎓 **Udemy Clone**  
 🔗 [Live](#) | 📂 [Repo](#)  
 
----
+
 
 ### 📊 GitHub Stats  
 <p align="center">
@@ -45,14 +45,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harishkalusulingam&theme=radical" height="150">
 </p>
 
----
+
 
 ### 📞 Contact Me  
+
 📧 **Email:** harishkalusulingamn@gmail.com
 
 💼 **LinkedIn:** https://www.linkedin.com/in/harish-kalusulingam-n-7bb73b224/
 
 🐦 **Instagram:** https://www.instagram.com/n_harish_kalusulingam/
----
 
 ⭐ **Check out my repositories for more cool projects!** 🚀  
